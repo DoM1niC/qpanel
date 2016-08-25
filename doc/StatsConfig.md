@@ -60,5 +60,3 @@ odbc is your driver and general the section where set config respective file
 If you dont want to work in realtime, you can parse the queue_log with parser_queuelog.py
 
 Into the  samples/sqls directory there are samples of DDL for MySQL and PostgreSQL database.
-
-
